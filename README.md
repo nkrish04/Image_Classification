@@ -1,4 +1,4 @@
-# INTRABHAWAN ML COMPETITION
+# ML COMPETITION
 # IMAGE CLASSIFICATION USING CNN
 
 First we imported all needed libraries
